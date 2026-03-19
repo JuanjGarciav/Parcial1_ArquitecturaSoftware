@@ -62,7 +62,6 @@ namespace PruebasUnitarias
             Assert.IsTrue(resultado.Aprobado);
         }
 
-        // ── VALIDACIÓN DE BALANZA ────────────────────────────────────────
 
         [TestMethod]
         public void balanzaCero_debeNegarCredito()

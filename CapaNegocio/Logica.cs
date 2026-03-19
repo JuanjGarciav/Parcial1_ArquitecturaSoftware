@@ -43,7 +43,7 @@ namespace CapaNegocio
                     $"Crédito negado: puntaje insuficiente. Tiene {puntajeCliente}, necesita {puntajeMinimo}.");
         }
 
-        // --- Métodos auxiliares con responsabilidad única (SRP) ---
+  
 
         public bool plazoEsValido(int plazo)
         {
